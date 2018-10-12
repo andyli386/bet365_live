@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bet365_live
 // @namespace    http://aposte.me/
-// @version      1.4.0
+// @version      1.4.1
 // @description  Adiciona indicadores para melhorar o seu desempenho nas apostas Asian Handicap Live
 // @author       Ronaldo Araujo de Farias
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
